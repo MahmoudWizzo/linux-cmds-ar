@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/linux-cmds-ar/static/css/main.007b5a3e.css",
+    "main.js": "/linux-cmds-ar/static/js/main.f9d18964.js",
+    "static/js/453.14b6b8d9.chunk.js": "/linux-cmds-ar/static/js/453.14b6b8d9.chunk.js",
+    "index.html": "/linux-cmds-ar/index.html",
+    "main.007b5a3e.css.map": "/linux-cmds-ar/static/css/main.007b5a3e.css.map",
+    "main.f9d18964.js.map": "/linux-cmds-ar/static/js/main.f9d18964.js.map",
+    "453.14b6b8d9.chunk.js.map": "/linux-cmds-ar/static/js/453.14b6b8d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.007b5a3e.css",
+    "static/js/main.f9d18964.js"
+  ]
+}
